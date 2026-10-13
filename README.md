@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**purwa-chaudhary/purwa-chaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Purwa! 👋
 
-Here are some ideas to get you started:
+🎓 BTech Computer Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Learning Python Programming
+
+📊 Interested in Data Analysis
+
+💻 Building beginner-friendly projects
+
+## Skills
+- Python
+- HTML
+- CSS
+- GitHub
+
+## Current Goals
+- Improve my Python skills
+- Build real-world projects
+- Prepare for technical placements
